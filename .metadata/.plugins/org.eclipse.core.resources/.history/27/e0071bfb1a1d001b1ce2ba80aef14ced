@@ -1,0 +1,19 @@
+package com.senforage.test;
+
+import com.senforageUser.dao.UserImpl;
+
+public class Test 
+{
+
+	public static void main(String[] args) 
+	{
+	
+		IUser userdao = new UserImpl();
+
+		User u = new User();
+		System.out.println(userdao.add(u));
+		
+	}
+
+
+}

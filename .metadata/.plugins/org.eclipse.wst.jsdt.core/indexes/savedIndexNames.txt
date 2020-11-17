@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2626580622.index
+197074492.index
+4203691011.index
+2575421078.index
+3065875270.index
+3736200329.index
+3736200329.index
+3448394601.index
+3648115828.index

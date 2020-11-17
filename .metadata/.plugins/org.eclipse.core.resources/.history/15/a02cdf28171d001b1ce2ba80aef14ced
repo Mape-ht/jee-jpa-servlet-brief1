@@ -1,0 +1,5 @@
+package com.senforageUser.dao;
+
+public interface IUser {
+
+}

@@ -1,0 +1,21 @@
+package com.senforageUser.dao;
+
+import javax.persistence.Persistence;
+
+public class UserImpl implements IUser 
+{
+
+	private EntityManager em;
+	public UserImpl() 
+	{
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("GestionClientSenForagePU");
+		em = emf.
+		
+	}
+	@Override
+	public int add(User user) 
+	{
+					
+		// TODO Auto-generated method stub
+		return 0;
+	}

@@ -1,0 +1,7 @@
+p
+
+public interface IUser 
+{
+
+	public int add(UserImpl )
+}

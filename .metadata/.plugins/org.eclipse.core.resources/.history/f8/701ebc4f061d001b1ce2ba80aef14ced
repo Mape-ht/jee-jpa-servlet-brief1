@@ -1,0 +1,9 @@
+package com.senforageAbonne.entities;
+
+import java.io.Serializable;
+
+public class Abonne implements Serializable
+{
+
+	
+}

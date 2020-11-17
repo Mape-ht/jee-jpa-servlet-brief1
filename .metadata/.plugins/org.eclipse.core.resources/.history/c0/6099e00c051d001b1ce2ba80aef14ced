@@ -1,0 +1,9 @@
+package com.senforageVillage.entities;
+
+import java.io.Serializable;
+
+public class Village implements Serializable
+{
+
+	
+}

@@ -1,0 +1,8 @@
+package com.senforageVillage.dao;
+
+public class VillageImpl implements IVillage
+{
+
+	private EntityManager em;
+	
+}

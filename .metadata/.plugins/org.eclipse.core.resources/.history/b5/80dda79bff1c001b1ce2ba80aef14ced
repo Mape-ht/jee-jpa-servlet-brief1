@@ -1,0 +1,5 @@
+package com.senforageVillage.dao;
+
+public interface IVillage {
+
+}

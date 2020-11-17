@@ -1,0 +1,10 @@
+package com.senforageUser.entities;
+
+import java.io.Serializable;
+
+@Entity
+public class User implements Serializable 
+{
+
+	
+}

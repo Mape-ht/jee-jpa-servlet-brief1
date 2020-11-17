@@ -1,0 +1,7 @@
+package com.senforageUser.dao;
+
+public interface UserImpl 
+{
+
+	public int add(User)
+}

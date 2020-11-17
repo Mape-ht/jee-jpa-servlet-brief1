@@ -1,0 +1,16 @@
+package begintd;
+
+import java.util.Scanner;
+
+public class exo2 {
+
+	public static void main(String[] args) {
+		System.out.println("Saisir le rayon du cercle");	
+		Scanner rayon = new Scanner(System.out);
+		rayon = rayon.nextDouble(); 
+		double perimetre = 2*Math.PI*rayon;
+		
+	
+	}
+
+}

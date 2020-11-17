@@ -1,0 +1,21 @@
+package com.senforage.test;
+
+import com.senforageUser.dao.UserImpl;
+import com.senforageUser.entities.User;
+
+public class Test 
+{
+
+	public static void main(String[] args) 
+	{
+	
+		IUser userdao = new UserImpl();
+
+		User u = new User();
+		System.out.println(userdao.add(u));
+		u.setNom("Sagna");
+		u.setPrenom
+	}
+
+
+}

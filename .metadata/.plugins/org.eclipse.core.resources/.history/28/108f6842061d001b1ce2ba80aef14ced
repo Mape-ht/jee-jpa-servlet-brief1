@@ -1,0 +1,5 @@
+package com.senforageAbonne.entities;
+
+public class Abonne {
+
+}

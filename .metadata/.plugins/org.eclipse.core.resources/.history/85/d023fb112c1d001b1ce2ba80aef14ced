@@ -1,0 +1,13 @@
+package com.senforageVillage.dao;
+
+import javax.persistence.EntityManager;
+
+public class VillageImpl implements IVillage
+{
+
+	private EntityManager em;
+	public VillageImpl()
+	{
+	
+		
+	}

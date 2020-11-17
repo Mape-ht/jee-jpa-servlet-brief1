@@ -1,0 +1,26 @@
+package com.senforageUser.entities;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class User implements Serializable 
+{
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int id;
+	@Column(lenght=50)
+	private String nom;
+	@Column(lenght=150)
+	private String prenom;
+	private String email;
+	private String password;
+	private int etat;
+	
+	
+}

@@ -1,0 +1,10 @@
+package com.login;
+
+public class LoginDao 
+{
+
+	public boolean check()
+	{
+		
+	}
+}

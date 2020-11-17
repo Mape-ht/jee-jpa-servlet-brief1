@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<title>SenForage</title>
+</head>
+<body>
+
+<%
+
+	if(session.getAttribute("fname")==null)
+	{
+		response.sendRedirect("login.jsp");
+	}
+%>
+	
+	Bonjour ${fname}
+	
+	
+	
+	
+
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3213997684.index
+\GestionClientSenForage\src
+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3736200329.index
+\jee-jpa-tomcat\src
+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4243429366.index
+\jee-jpa-tomcat\src
+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2983266127.index
+\Essai1\src
+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\347355647.index
+\jee-jpa-tomcat\src
+C:\Users\Acer15\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2096130187.index
+\GestionClientSenForage\src

@@ -1,0 +1,5 @@
+package com.senforageAbonne.dao;
+
+public class AbonneImpl {
+
+}

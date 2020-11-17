@@ -1,0 +1,18 @@
+package com.senforageUser.dao;
+
+public class UserImpl implements IUser 
+{
+
+	private EntityManager em;
+	public UserImpl() 
+	{
+		EntityManager
+		
+	}
+	@Override
+	public int add(User user) 
+	{
+					
+		// TODO Auto-generated method stub
+		return 0;
+	}

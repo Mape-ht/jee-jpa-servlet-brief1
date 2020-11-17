@@ -1,0 +1,5 @@
+package com.senforageVillage.entities;
+
+public class Village implement Serializable{
+
+}

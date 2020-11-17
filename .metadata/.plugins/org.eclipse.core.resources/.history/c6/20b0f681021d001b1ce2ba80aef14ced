@@ -1,0 +1,5 @@
+package com.senforageUser.entities;
+
+public class User implements  {
+
+}

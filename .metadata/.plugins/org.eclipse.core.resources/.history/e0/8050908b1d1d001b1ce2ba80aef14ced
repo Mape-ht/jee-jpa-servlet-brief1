@@ -1,0 +1,11 @@
+package com.senforageAbonne.dao;
+
+import javax.persistence.EntityManager;
+
+public class AbonneImpl implements IAbonne
+{
+
+	private EntityManager em;
+	
+	
+}

@@ -1,0 +1,17 @@
+package com.senforageVillage.dao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class VillageImpl implements IVillage
+{
+
+	private EntityManager em;
+	public VillageImpl()
+	{
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("GestionClientSenForagePU");
+		em = emf.createEntityManager();
+		
+	}
+	@Override

@@ -1,0 +1,11 @@
+package com.senforageUser.dao;
+
+public class UserImpl implements IUser 
+{
+
+	@Override
+	public int add(User user) 
+	{
+
+		// TODO Auto-generated method stub
+	}
