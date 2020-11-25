@@ -25,7 +25,7 @@ public class Abonne implements Serializable{
 	
 	@ManyToOne
 	@JoinColumn(name = "village_id")
-	private Village village;
+	private Village village= new Village();
 	
 	public Village getVillage() {
 		return village;
@@ -83,10 +83,11 @@ public class Abonne implements Serializable{
 		this.telephone = telephone;
 	}
 
-	public void setVillage(String string) {
-		// TODO Auto-generated method stub
-		
-	}
+	/*
+	 * public void setVillage(String string) { // TODO Auto-generated method stub
+	 * 
+	 * }
+	 */
 	
 	
 }

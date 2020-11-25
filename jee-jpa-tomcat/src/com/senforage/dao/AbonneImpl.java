@@ -33,10 +33,26 @@ public class AbonneImpl implements IAbonne{
 	}
 
 	@Override
-	public List<Abonne> list() {
+	public List<Abonne> findAllAbonnes() {
 		
 		return em.createQuery("SELECT a FROM Abonne a").getResultList();
 	} 
+	
+	@Override
+	public List<Village> findAllVillages(){
+		
+		return em.createQuery("SELECT v FROM Village v").getResultList();
+	}
+	@Override
+	public Abonne findByIdAbonne(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public void delete(Abonne abonne) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 	
 	

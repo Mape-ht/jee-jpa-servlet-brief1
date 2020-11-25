@@ -8,5 +8,8 @@ import com.senforage.entities.Village;
 public interface IAbonne {
 
 	public int add(Abonne abonne);
-	public List<Abonne> list();
+	public List<Abonne> findAllAbonnes();
+	public Abonne findByIdAbonne(int id);
+	public List<Village> findAllVillages();
+	public void delete(Abonne abonne);
 }

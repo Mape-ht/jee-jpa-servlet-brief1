@@ -40,9 +40,9 @@ public class VillageImpl implements IVillage {
 	} 
 	
 	@Override
-	public Village findByIdVillage(int id) {
+	public Village getVillage(int id) {
 	
-		return (Village)em.createQuery("SELECT v FROM Village v WHERE v.id=id")
+		return (Village)em.createQuery("SELECT v FROM Village v WHERE v.id=:id")
 				.setParameter("id", id)
 				.getSingleResult();
 		
@@ -52,5 +52,11 @@ public class VillageImpl implements IVillage {
 	public void delete(Village village) {
 		
 	}
+	@Override
+	public Village findByIdVillage(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
 	
 }
