@@ -57,8 +57,8 @@
         <ul>
           <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>User</span></a></li>
-          <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Village</span></a></li>
-          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Abonné</a></li>
+          <li><a href="Village"><i class="bx bx-file-blank"></i> <span>Village</span></a></li>
+          <li><a href="Abonne"><i class="bx bx-book-content"></i> Abonne</a></li>
           <!--<li><a href="#services"><i class="bx bx-server"></i> Services</a></li>  -->
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
 

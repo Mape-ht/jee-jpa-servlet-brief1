@@ -24,7 +24,22 @@
     <fullyQualifiedTypeName name="com.senforageUser.entities.User"/>
     <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
     <fullyQualifiedTypeName name="com.senforageAbonne.entities.Abonne"/>
-    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
     <fullyQualifiedTypeName name="com.senforageVillage.entities.Village"/>
     <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.objects.annotations.Where"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="com.senforage.dao.IAbonne"/>
+    <fullyQualifiedTypeName name="com.senforage.dao.IVillage"/>
+    <fullyQualifiedTypeName name="com.senforage.dao.AbonneImpl"/>
+    <fullyQualifiedTypeName name="com.senforage.dao.VillageImpl"/>
+    <fullyQualifiedTypeName name="com.senforage.entities.Village"/>
+    <fullyQualifiedTypeName name="com.senforage.entities.Abonne"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="sn.javajeeejbproject.entities.Village"/>
+    <fullyQualifiedTypeName name="javax.ejb.Local"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.ejb.Remote"/>
+    <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
 </qualifiedTypeNameHistroy>
